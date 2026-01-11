@@ -22,7 +22,7 @@
       "warning": "Only send <strong>Tether (USDT) ERC20</strong> assets to this address on Ethereum network.<br><br>Sending any other cryptocurrency or tokens will result in <strong>permanent loss</strong> of your funds. We cannot recover assets sent on wrong networks.",
       "verifySubtitle": "Enter your ERC20 transaction hash to verify payment",
       "explorer": "https://etherscan.io/tx/",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "usdt-bep20",
@@ -34,7 +34,7 @@
       "warning": "Only send <strong>Tether (USDT) BEP20</strong> assets to this address on Binance Smart Chain.<br><br>Sending any other cryptocurrency or tokens will result in <strong>permanent loss</strong> of your funds. We cannot recover assets sent on wrong networks.",
       "verifySubtitle": "Enter your BEP20 transaction hash to verify payment",
       "explorer": "https://bscscan.com/tx/",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "btc",
@@ -46,7 +46,7 @@
       "warning": "Only send <strong>Bitcoin (BTC)</strong> to this address.<br><br>Sending any other cryptocurrency or tokens will result in <strong>permanent loss</strong> of your funds. We cannot recover assets sent incorrectly.",
       "verifySubtitle": "Enter your Bitcoin transaction hash to verify payment",
       "explorer": "https://blockstream.info/tx/",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "eth",

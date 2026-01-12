@@ -19,7 +19,7 @@
       "network": "Dogecoin",
       "address": "DD81guHA7q4PY5uChrbQSEhQ5mFPdUrGKc",
       "title": "📬 Send DOGE to this address",
-      "warning": "Only send <strong>Tether (USDT) ERC20</strong> assets to this address on Ethereum network.<br><br>Sending any other cryptocurrency or tokens will result in <strong>permanent loss</strong> of your funds. We cannot recover assets sent on wrong networks.",
+      "warning": "Only send <strong>DOGE coin</strong> assets to this address.<br><br>Sending any other cryptocurrency or tokens will result in <strong>permanent loss</strong> of your funds. We cannot recover assets sent on wrong networks.",
       "verifySubtitle": "Enter your ERC20 transaction hash to verify payment",
       "explorer": "https://etherscan.io/tx/",
       "enabled": true
@@ -31,8 +31,8 @@
       "network": "Solana",
       "address": "9c8v5M1fpZvWvnAXGynsz1SfmKrD4PgGCSnkMc6Y7WQP",
       "title": "📬 Send SOL to this address",
-      "warning": "Only send <strong>Tether (USDT) BEP20</strong> assets to this address on Binance Smart Chain.<br><br>Sending any other cryptocurrency or tokens will result in <strong>permanent loss</strong> of your funds. We cannot recover assets sent on wrong networks.",
-      "verifySubtitle": "Enter your BEP20 transaction hash to verify payment",
+      "warning": "Only send <strong>SOL</strong> assets to this address on.<br><br>Sending any other cryptocurrency or tokens will result in <strong>permanent loss</strong> of your funds. We cannot recover assets sent on wrong networks.",
+      "verifySubtitle": "Enter your SOL transaction hash to verify payment",
       "explorer": "https://bscscan.com/tx/",
       "enabled": true
     },
